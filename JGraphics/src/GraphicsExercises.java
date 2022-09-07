@@ -3,7 +3,6 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 	
-//Changes for Experiment_2
 
 public class GraphicsExercises extends JFrame implements MouseListener {
 	
